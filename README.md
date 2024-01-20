@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=mrbusogithub&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Front-end web development projects**
 - 🌱 I’m currently learning **Angular.js**
@@ -6,6 +6,10 @@
 - 📫 How to reach me: **sonwabisob@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *I enjoy philosophical conversations*
+
+  ## About Me
+
+  As a web front-end developer, I offer a unique blend of skills and passion that sets me apart. Although my academic journey began in civil engineering, my heart led me to web development due to a profound passion for creating beautiful and functional web experiences. I bring a diverse skill set and a wealth of experience gained from working on a variety of web development projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonwabiso-buso-72b605205) 
@@ -22,6 +26,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mrbusogithub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mrbusogithub&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
